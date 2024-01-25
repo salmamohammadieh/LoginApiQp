@@ -16,6 +16,6 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-## Please find bellow the username and password for the default users: 
+## Please find below the username and password for the default users: 
 1) username:salma / password: s123
 2) username: q-pros / password: qpros123
